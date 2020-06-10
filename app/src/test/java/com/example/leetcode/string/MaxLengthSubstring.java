@@ -1,7 +1,5 @@
 package com.example.leetcode.string;
 
-import java.util.ArrayList;
-import java.util.HashSet;
 
 /**
  * 无重复字符的最长子串
